@@ -1,0 +1,16 @@
+.filters {
+
+    height: 600px;
+}
+
+.col_filters {
+    padding-right: 0%;
+    padding-left: 0%;
+    
+}.header {
+    background-color: #cacaca;
+    height: 90px;
+    text-align: center;
+    padding-top: 20px;
+}
+
